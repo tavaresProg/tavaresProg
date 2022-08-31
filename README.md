@@ -16,14 +16,8 @@
   💌 Contato: 👇
 </p>
 
-<p align="left"> Em construção!
-
-
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
-  <a href="" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/arthur-tavares-8b0881249/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
   
   <a href="https://instagram.com/arthurleonel97?igshid=YmMyMTA2M2Y=" alt="Instagram">
