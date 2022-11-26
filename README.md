@@ -1,19 +1,18 @@
 <p align="left"> 
   Olá, meu nome é Arthur! 🤓
-  Atualmente estou estudando em busca do primeiro emprego como programador.
-  Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong>.
+  
+  Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong> e <strong>técnico em administração</strong>.
+  
+  Procurando uma oportunidade como programador Java☕
+</p>
+
+
+<p align="left">
+  💼 Fique à vontade para vasculhar meus projetos!
 </p>
 
 <p align="left">
-  ☕ Linguagem: <strong>JAVA</strong>.
-</p>
-
-<p align="left">
-  💼 Ferramenta: <strong>Eclipse IDE.</strong>
-</p>
-
-<p align="left">
-  💌 Contato: 👇
+  💌 Formas de contato: 👇
 </p>
 
 <p align="left">
