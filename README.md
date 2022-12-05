@@ -3,9 +3,18 @@
   
   Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong> e <strong>Técnico em Administração</strong>.
   
-  Procurando uma oportunidade como programador Java☕
-</p>
-
+  
+  
+ <div align="center">
+  <a href="https://github.com/tavaresProg">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavaresProg&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tavaresProg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+   
+   
+   
+  Estou à procura de uma oportunidade como programador!
 
 <p align="left">
   💼 Fique à vontade para vasculhar meus projetos!
