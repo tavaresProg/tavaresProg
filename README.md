@@ -1,13 +1,5 @@
 <p align="left"> 
-  Olá, meu nome é Arthur! 🤓
-  
-  Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong> e <strong>Técnico em Administração</strong>.
-  
-   Estou à procura de uma oportunidade como programador!
-
-<p align="left">
-  💼 Fique à vontade para vasculhar meus projetos!
-</p>
+  Olá! 
 
 ## Contato:
 Você pode entrar em contato comigo em qualquer rede abaixo:
