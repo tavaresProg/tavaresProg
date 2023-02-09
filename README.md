@@ -1,6 +1,8 @@
 <p align="left"> 
 
 ## Backend Developer
+  Java/Spring Boot
+  JavaScript/Node.js
   
 ## Contact:
 
