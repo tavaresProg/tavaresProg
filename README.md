@@ -1,7 +1,7 @@
 <p align="left"> 
 
 ## Backend Developer
-  Knowledge in Java, Spring Boot, Rest API's, MySQL and MongoDb.
+ Java back-end developer
   
 ## Contact:
 
