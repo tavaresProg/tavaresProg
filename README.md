@@ -1,7 +1,7 @@
 <p align="left"> 
 
-## Backend Developer
- Java back-end developer
+## Java back-end developer
+ 
   
 ## Contact:
 
