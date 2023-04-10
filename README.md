@@ -1,8 +1,9 @@
 <p align="left"> 
 
-## Java back-end developer
+## Back-end developer
  
-  
+ Java, Spring Boot, Git, MySQL, HTML, CSS, JavaScript
+ 
 ## Contact:
 
 
