@@ -2,7 +2,12 @@
 
 ## Back-end developer
  
- Java, Spring Boot, Git, MySQL, HTML, CSS, JavaScript
+• Profissional com experiência na área Administrativa e conhecimentos em linguagem Java, atuando no setor público.
+• Sólida vivência em desenvolvimento utilizando outras linguagens de programação.
+• Testes unitários com JUnit/Mockito, Versionamento de código com Git e GitHub.
+• Conhecimento em Spring Boot Framework, banco de dados MySQL, H2 e MongoDB.
+• Vivência no Exército Brasileiro, atuando com demandas administrativas, treinamentos e demais necessidades da unidade.
+• Facilidade de aprendizado sobre linguagens de programação, código limpo e metodologias ágeis.
  
 ## Contact:
 
